@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "232652490089",
+    "firebase_url": "https://jobot-fb46e.firebaseio.com",
+    "project_id": "jobot-fb46e",
+    "storage_bucket": "jobot-fb46e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232652490089:android:a4f5e19f08fba878",
+        "android_client_info": {
+          "package_name": "com.watson.jobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232652490089-gok7e7m2ouii8ci4h09srq8fd9u3m5vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAav1tK4JIjxfFNYPn-aOEez-EVPDkPATo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
